@@ -1,5 +1,5 @@
-title: Simple Java template
+title: Simple Kotlin template
 
 plan:
-  - title: Java Snippet
+  - title: Kotlin Snippet
     statement: statement.md
